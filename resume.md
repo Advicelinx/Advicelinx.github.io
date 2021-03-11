@@ -1,3 +1,4 @@
+
 # Zhongxian Zhang
 
 zhongxian.zhang@yahoo.com
@@ -68,5 +69,6 @@ _**University of Washington**_
 Minored in Modern Dance (participated in UWMFA 2019 concert)
 
 Loved doing some data projects
+
 
 
